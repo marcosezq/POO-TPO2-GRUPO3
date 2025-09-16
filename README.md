@@ -10,12 +10,12 @@
 
 ## 👥 Integrantes
 
-| Estudiante                 | Legajo   |
-|----------------------------|----------|
-| Borini, Daniel Augusto     | 1155952  |
-| Cáceres, Lucas Gabriel     | 1160067  |
-| Fernández, Marcos Ezequiel | 1159413  |
-| Reynoso, Rafael            | 1159155  |
+| Estudiante                 | Legajo  |
+|----------------------------|---------|
+| Borini, Daniel Augusto     | 1112803 |
+| Cáceres, Lucas Gabriel     | 1160067 |
+| Fernández, Marcos Ezequiel | 1101971 |
+| Reynoso, Rafael            | 1159155 |
 
 ---
 
